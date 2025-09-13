@@ -1,0 +1,6 @@
+Field: PXABSPDO
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 691-692
+Content:
+

@@ -1,0 +1,6 @@
+Field: PXMARITL
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 661-662
+Content:
+

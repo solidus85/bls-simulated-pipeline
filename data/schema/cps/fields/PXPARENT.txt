@@ -1,0 +1,6 @@
+Field: PXPARENT
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 657-658
+Content:
+

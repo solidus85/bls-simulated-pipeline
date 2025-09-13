@@ -1,0 +1,6 @@
+Field: HXTELAVL
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 649-650
+Content:
+

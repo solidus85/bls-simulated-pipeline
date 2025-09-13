@@ -1,0 +1,14 @@
+Field: PTERNHLY
+Size: 4
+Description: RECODE FOR HOURLY RATE 2 IMPLIED DECIMALS
+Columns: 520-523
+Content:
+
+EDITED UNIVERSE:	PEERNPER = 1 OR PEERNRT = 1
+
+VALID ENTRIES
+
+0	MIN VALUE
+9999	MAX VALUE (Subject to topcoding based on the entry in PEERNHRO
+such that PEERNHRO x PEERNHLY < or = 2884.61)
+

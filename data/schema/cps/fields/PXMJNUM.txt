@@ -1,0 +1,6 @@
+Field: PXMJNUM
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 695-696
+Content:
+

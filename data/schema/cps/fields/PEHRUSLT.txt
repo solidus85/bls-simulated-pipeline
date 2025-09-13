@@ -1,0 +1,14 @@
+Field: PEHRUSLT
+Size: 3
+Description: SUM OF HRUSL1 AND HRUSL2.
+Columns: 224-226
+Content:
+
+EDITED UNIVERSE:	PEMLR = 1 OR 2
+
+VALID ENTRIES
+
+-4     VARIES
+0      MIN VALUE
+198  MAX VALUE
+

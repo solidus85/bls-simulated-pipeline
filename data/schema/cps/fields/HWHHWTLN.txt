@@ -1,0 +1,13 @@
+Field: HWHHWTLN
+Size: 2
+Description: Line Number (PULINENO) of the person whose PWSSWGT was donated as HWHHWGT for the household
+Columns: 76-77
+Content:
+
+EDITED UNIVERSE:  HRINTSTA = 1
+
+VALID ENTRIES
+
+0	MIN VALUE
+16	MAX VALUE
+

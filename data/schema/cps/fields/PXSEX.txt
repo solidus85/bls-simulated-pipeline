@@ -1,0 +1,6 @@
+Field: PXSEX
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 665-666
+Content:
+

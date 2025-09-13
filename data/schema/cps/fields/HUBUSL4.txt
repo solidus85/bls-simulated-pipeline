@@ -1,0 +1,13 @@
+Field: HUBUSL4
+Size: 2
+Description: See BUSL1
+Columns: 87-88
+Content:
+
+VALID ENTRIES
+
+1	MIN VALUE
+99	MAX VALUE
+
+A2. GEOGRAPHIC INFORMATION
+

@@ -1,0 +1,18 @@
+Field: PRDASIAN
+Size: 2
+Description: DETAILED ASIAN RACE RECODE
+Columns: 934-935
+Content:
+
+EDITED UNIVERSE:  	PTDTRACE = 4
+
+VALID ENTRIES
+
+1 = Asian Indian
+2 = Chinese
+3 = Filipino
+4 = Japanese
+5 = Korean
+6 = Vietnamese
+7 = Other
+

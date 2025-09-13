@@ -1,0 +1,6 @@
+Field: PXHRACT2
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 713-714
+Content:
+

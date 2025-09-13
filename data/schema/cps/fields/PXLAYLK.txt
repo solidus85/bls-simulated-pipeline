@@ -1,0 +1,6 @@
+Field: PXLAYLK
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 723-724
+Content:
+

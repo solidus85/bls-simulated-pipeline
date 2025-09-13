@@ -1,0 +1,6 @@
+Field: PXTLWKHR
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 842-843
+Content:
+

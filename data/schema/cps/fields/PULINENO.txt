@@ -1,0 +1,11 @@
+Field: PULINENO
+Size: 2
+Description: PERSON'S LINE NUMBER
+Columns: 147-148
+Content:
+
+VALID ENTRIES
+
+01	MIN VALUE
+99	MAX VALUE
+

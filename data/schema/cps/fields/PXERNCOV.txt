@@ -1,0 +1,6 @@
+Field: PXERNCOV
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 801-802
+Content:
+

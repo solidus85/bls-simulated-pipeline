@@ -1,0 +1,6 @@
+Field: PXHRUSLT
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 703-704
+Content:
+

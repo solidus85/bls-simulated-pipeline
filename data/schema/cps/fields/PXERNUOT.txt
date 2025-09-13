@@ -1,0 +1,6 @@
+Field: PXERNUOT
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 777-778
+Content:
+

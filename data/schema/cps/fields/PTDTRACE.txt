@@ -1,0 +1,37 @@
+Field: PTDTRACE
+Size: 2
+Description: RACE
+Columns: 139-140
+Content:
+
+EDITED UNIVERSE:	PRPERTYP = 1, 2, 0R 3
+
+VALID ENTRIES
+
+01  	White Only
+02 	Black Only
+03  	American Indian, Alaskan Native Only
+04  	Asian Only
+05  	Hawaiian/Pacific Islander Only
+06  	White-Black
+07  	White-AI
+08  	White-Asian
+09  	White-HP
+10  	Black-AI
+11  	Black-Asian
+12  	Black-HP
+13  	AI-Asian
+14  	AI-HP
+15	Asian-HP
+16 	W-B-AI
+17  	W-B-A
+18	W-B-HP
+19	W-AI-A
+20  	W-AI-HP
+21	W-A-HP
+22	B-AI-A
+23  	W-B-AI-A
+24	W-AI-A-HP
+25	Other 3 Race Combinations
+26  	Other 4 and 5 Race Combinations
+

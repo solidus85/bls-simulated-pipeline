@@ -1,0 +1,12 @@
+Field: PTHR
+Size: 1
+Description: HOURLY PAY - TOP CODE
+Columns: 524-524
+Content:
+
+VALID ENTRIES
+
+0	NOT TOPCODED
+1	TOPCODED
+
+*STARTING MAY 2024*

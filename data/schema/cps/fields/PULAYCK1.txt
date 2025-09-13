@@ -1,0 +1,12 @@
+Field: PULAYCK1
+Size: 2
+Description: CHECK ITEM 1
+Columns: 288-289
+Content:
+
+VALID ENTRIES
+
+1      GOTO PULAYCK3
+2      GOTO PULAYFT
+3      GOTO PULAYDR
+

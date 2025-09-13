@@ -1,0 +1,7 @@
+Field: PXTLWK
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 840-841
+Content:
+
+***STARTING JUNE 2024***

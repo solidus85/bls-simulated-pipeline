@@ -1,0 +1,6 @@
+Field: PXERNH2
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 797-798
+Content:
+

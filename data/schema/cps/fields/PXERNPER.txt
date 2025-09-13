@@ -1,0 +1,6 @@
+Field: PXERNPER
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 779-780
+Content:
+

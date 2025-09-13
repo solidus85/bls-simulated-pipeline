@@ -1,0 +1,6 @@
+Field: PXPAR1
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 898-899
+Content:
+

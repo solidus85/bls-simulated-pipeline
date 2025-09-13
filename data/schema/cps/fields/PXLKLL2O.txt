@@ -1,0 +1,6 @@
+Field: PXLKLL2O
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 735-736
+Content:
+

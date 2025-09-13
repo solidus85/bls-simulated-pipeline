@@ -1,0 +1,6 @@
+Field: PXIO2COW
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 771-772
+Content:
+

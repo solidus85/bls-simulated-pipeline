@@ -1,0 +1,17 @@
+Field: PRUNEDUR
+Size: 3
+Description: DURATION OF UNEMPLOYMENT FOR LAYOFF AND LOOKING RECORDS
+Columns: 407-409
+Content:
+
+EDITED UNIVERSE:	PEMLR = 3-4
+
+VALID ENTRIES
+
+0	MIN VALUE
+119	MAX VALUE
+
+Topcoded consistent with PELAYDUR or PELKDUR,
+as appropriate, starting April 2011.
+
+

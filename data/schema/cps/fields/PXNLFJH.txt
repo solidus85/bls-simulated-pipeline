@@ -1,0 +1,6 @@
+Field: PXNLFJH
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 803-804
+Content:
+

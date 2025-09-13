@@ -1,0 +1,6 @@
+Field: PXLAYAVL
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 721-722
+Content:
+

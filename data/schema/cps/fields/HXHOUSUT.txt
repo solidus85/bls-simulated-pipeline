@@ -1,0 +1,6 @@
+Field: HXHOUSUT
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 645-646
+Content:
+

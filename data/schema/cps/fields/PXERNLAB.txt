@@ -1,0 +1,6 @@
+Field: PXERNLAB
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 799-800
+Content:
+

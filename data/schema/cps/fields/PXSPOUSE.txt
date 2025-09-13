@@ -1,0 +1,6 @@
+Field: PXSPOUSE
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 663-664
+Content:
+

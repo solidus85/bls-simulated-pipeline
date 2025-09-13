@@ -1,0 +1,11 @@
+Field: PWCMPWGT
+Size: 10
+Description: Composited Final Weight. Used to create BLS's published labor force statistics (4 implied decimal places)
+Columns: 846-855
+Content:
+
+EDITED UNIVERSE:  PRPERTYP = 2 AND
+PRTAGE = 16+
+
+SEE THE INDUSTRY AND OCCUPATION APPENDIX FOR CODE DESCRIPTIONS
+

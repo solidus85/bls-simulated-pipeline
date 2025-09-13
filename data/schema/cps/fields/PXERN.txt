@@ -1,0 +1,6 @@
+Field: PXERN
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 785-786
+Content:
+

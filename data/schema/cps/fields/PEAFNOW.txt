@@ -1,0 +1,13 @@
+Field: PEAFNOW
+Size: 2
+Description: ARE YOU NOW IN THE ARMED FORCES
+Columns: 135-136
+Content:
+
+EDITED UNIVERSE:	PRPERTYP = 2 or 3
+
+VALID ENTRIES
+
+1	YES
+2	NO
+

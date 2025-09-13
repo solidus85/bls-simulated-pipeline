@@ -1,0 +1,13 @@
+Field: PEDIPGED
+Size: 2
+Description: How did...get...'s high school diploma?
+Columns: 822-823
+Content:
+
+EDITED UNIVERSE = PEEDUCA = 39
+
+VALID ENTRIES
+
+1	Graduation from high school
+2	GED or other equivalent
+

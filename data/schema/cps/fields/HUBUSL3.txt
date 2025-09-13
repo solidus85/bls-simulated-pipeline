@@ -1,0 +1,11 @@
+Field: HUBUSL3
+Size: 2
+Description: See BUSL1
+Columns: 85-86
+Content:
+
+VALID ENTRIES
+
+1	MIN VALUE
+99	MAX VALUE
+

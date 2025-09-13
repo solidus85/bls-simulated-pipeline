@@ -1,0 +1,6 @@
+Field: QSTNUM
+Size: 5
+Description: Unique household identifier. Valid only within any specific month.
+Columns: 815-819
+Content:
+

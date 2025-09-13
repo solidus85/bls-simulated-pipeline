@@ -1,0 +1,5 @@
+Field: PXDISEAR
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 920-921
+Content:

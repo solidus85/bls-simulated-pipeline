@@ -1,0 +1,11 @@
+Field: PELAYDUR
+Size: 3
+Description: DURATION OF LAYOFF EDITED UNIVERSE: PELAYLK = 1, 2
+Columns: 283-285
+Content:
+
+VALID ENTRIES
+
+01-51	Weeks on layoff
+52	52 weeks or more
+Topcoded at 52 weeks starting April 2011

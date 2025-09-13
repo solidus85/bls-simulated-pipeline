@@ -1,0 +1,6 @@
+Field: PXJHWANT
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 763-764
+Content:
+

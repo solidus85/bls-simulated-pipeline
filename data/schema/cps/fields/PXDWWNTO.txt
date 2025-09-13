@@ -1,0 +1,6 @@
+Field: PXDWWNTO
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 743-744
+Content:
+

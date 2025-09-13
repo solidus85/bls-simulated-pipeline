@@ -1,0 +1,6 @@
+Field: PXRACE1
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 673-674
+Content:
+

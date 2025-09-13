@@ -1,0 +1,6 @@
+Field: PXHRFTPT
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 701-702
+Content:
+

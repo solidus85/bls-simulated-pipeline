@@ -1,0 +1,6 @@
+Field: HXPHONEO
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 651-652
+Content:
+

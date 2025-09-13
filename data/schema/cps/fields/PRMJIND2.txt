@@ -1,0 +1,26 @@
+Field: PRMJIND2
+Size: 2
+Description: MAJOR INDUSTRY RECODE - JOB 2
+Columns: 484-485
+Content:
+
+EDITED UNIVERSE:	PRDTIND2 = 1-51
+
+
+VALID ENTRIES
+
+1	Agriculture, forestry, fishing, and hunting
+2	Mining
+3	Construction
+4	Manufacturing
+5	Wholesale and retail trade
+6	Transportation and utilities
+7	Information
+8	Financial activities
+9	Professional and business services
+10	Educational and health services
+11	Leisure and hospitality
+12	Other services
+13	Public administration
+14	Armed Forces
+

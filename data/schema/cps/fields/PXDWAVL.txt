@@ -1,0 +1,6 @@
+Field: PXDWAVL
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 755-756
+Content:
+

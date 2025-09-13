@@ -1,0 +1,13 @@
+Field: PEDISDRS
+Size: 2
+Description: DOES … HAVE DIFFICULTY DRESSING OR BATHING?
+Columns: 914-915
+Content:
+
+EDITED UNIVERSE: PRPERTYP = 2
+
+VALID ENTRIES
+
+1	Yes
+2	No
+

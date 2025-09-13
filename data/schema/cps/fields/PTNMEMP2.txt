@@ -1,0 +1,16 @@
+Field: PTNMEMP2
+Size: 2
+Description: EXCLUDING ALL OWNERS, HOW MANY PAID EMPLOYEES DOES THIS PERSON USUALLY HAVE?
+Columns: 942-943
+Content:
+
+See location 789-790 for the allocation flag.
+
+EDITED UNIVERSE:  PEPDEMP1 = 1
+
+VALID ENTRIES
+
+01-09	Number of employees
+10	10 or more employees
+Note that this item is topcoded at 10 employees.
+

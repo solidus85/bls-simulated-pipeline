@@ -1,0 +1,16 @@
+Field: PEPDEMP1
+Size: 2
+Description: DOES THIS PERSON USUALLY HAVE ANY PAID EMPLOYEES?
+Columns: 936-937
+Content:
+
+See location 637-638 for the allocation flag.
+
+EDITED UNIVERSE:  HRMIS = 3 or 4 and
+PEIO1COW = 6 or 7
+
+VALID ENTRIES
+
+1 YES
+2 NO
+

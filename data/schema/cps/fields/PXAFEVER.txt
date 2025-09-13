@@ -1,0 +1,6 @@
+Field: PXAFEVER
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 884-885
+Content:
+

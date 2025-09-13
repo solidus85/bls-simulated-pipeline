@@ -1,0 +1,11 @@
+Field: PUHROT2
+Size: 2
+Description: HOW MANY ADDITIONAL HOURS DID YOU WORK?
+Columns: 241-242
+Content:
+
+VALID ENTRIES
+
+0      MIN VALUE
+99    MAX VALUE
+

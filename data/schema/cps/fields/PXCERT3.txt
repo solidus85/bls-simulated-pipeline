@@ -1,0 +1,6 @@
+Field: PXCERT3
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 954-955
+Content:
+

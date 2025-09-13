@@ -1,0 +1,7 @@
+Field: PXCYC
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 838-839
+Content:
+
+***STARTING JUNE 2024***

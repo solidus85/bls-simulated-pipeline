@@ -1,0 +1,13 @@
+Field: PUHRCK1
+Size: 2
+Description: CHECK ITEM 1
+Columns: 257-258
+Content:
+
+VALID ENTRIES
+
+1      GOTO PUHRUSL2
+2      GOTO PUHRUSLT
+
+
+

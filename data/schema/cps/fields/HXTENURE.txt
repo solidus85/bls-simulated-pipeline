@@ -1,0 +1,6 @@
+Field: HXTENURE
+Size: 2
+Description: ALLOCATION FLAG See HETENURE note.
+Columns: 643-644
+Content:
+

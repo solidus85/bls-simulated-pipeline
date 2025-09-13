@@ -1,0 +1,6 @@
+Field: PXSCHENR
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 809-810
+Content:
+

@@ -1,0 +1,6 @@
+Field: PXDW4WK
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 751-752
+Content:
+

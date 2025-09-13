@@ -1,0 +1,11 @@
+Field: PRCITFLG
+Size: 2
+Description: CITIZENSHIP ALLOCATION FLAG
+Columns: 174-175
+Content:
+
+EDITED UNIVERSE:	PRPERTYP = 1, 2, 0R 3
+
+Placed in this position because naming convention is
+different from all other allocation flags.
+

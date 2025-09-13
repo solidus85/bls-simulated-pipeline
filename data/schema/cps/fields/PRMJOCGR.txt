@@ -1,0 +1,18 @@
+Field: PRMJOCGR
+Size: 2
+Description: MAJOR OCCUPATION CATEGORIES
+Columns: 490-491
+Content:
+
+EDITED UNIVERSE:	PRMJOCC = 1-11
+
+VALID ENTRIES
+
+1	Management, professional, and related occupations
+2	Service occupations
+3	Sales and office occupations
+4	Farming, fishing, and forestry occupations
+5	Construction, and maintenance occupations
+6	Production, transportation, and material moving occupations
+7	Armed Forces
+

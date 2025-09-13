@@ -1,0 +1,6 @@
+Field: PXDISEYE
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 922-923
+Content:
+

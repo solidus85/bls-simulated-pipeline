@@ -1,0 +1,12 @@
+Field: PUHRCK5
+Size: 2
+Description: CHECK ITEM 5
+Columns: 265-266
+Content:
+
+
+VALID ENTRIES
+
+1      IF ENTRY OF 1 IN MJOT GOTO HRACT2
+2      ALL OTHERS GOTO HRCK6-C
+

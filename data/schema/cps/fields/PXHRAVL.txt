@@ -1,0 +1,6 @@
+Field: PXHRAVL
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 719-720
+Content:
+

@@ -1,0 +1,6 @@
+Field: PXNATVTY
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 675-676
+Content:
+

@@ -1,0 +1,6 @@
+Field: PXABSRSN
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 689-690
+Content:
+

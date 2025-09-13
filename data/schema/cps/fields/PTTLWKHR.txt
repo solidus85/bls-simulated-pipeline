@@ -1,0 +1,13 @@
+Field: PTTLWKHR
+Size: 2
+Description: NUMBER OF HOURS TELEWORKED
+Columns: 254-255
+Content:
+
+EDITED UNIVERSE:	PTTLWK = 1
+
+VALID ENTRIES
+
+0      MIN VALUE   (Less than 30 minutes)
+97   MAX VALUE
+

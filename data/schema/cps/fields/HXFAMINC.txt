@@ -1,0 +1,6 @@
+Field: HXFAMINC
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 932-933
+Content:
+

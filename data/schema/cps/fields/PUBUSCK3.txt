@@ -1,0 +1,11 @@
+Field: PUBUSCK3
+Size: 2
+Description: CHECK ITEM 3
+Columns: 192-193
+Content:
+
+VALID ENTRIES
+
+1	GOTO PUABSRSN
+2	GOTO PULAY
+

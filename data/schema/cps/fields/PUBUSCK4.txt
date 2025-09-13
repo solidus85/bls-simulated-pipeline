@@ -1,0 +1,11 @@
+Field: PUBUSCK4
+Size: 2
+Description: CHECK ITEM 4
+Columns: 194-195
+Content:
+
+VALID ENTRIES
+
+1	GOTO PUHRUSL1
+2	GOTO PUABSPD
+

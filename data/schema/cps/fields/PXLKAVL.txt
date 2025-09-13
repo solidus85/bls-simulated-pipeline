@@ -1,0 +1,6 @@
+Field: PXLKAVL
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 731-732
+Content:
+

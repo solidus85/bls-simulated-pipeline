@@ -1,0 +1,6 @@
+Field: PXHRRSN2
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 709-710
+Content:
+

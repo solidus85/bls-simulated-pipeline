@@ -1,0 +1,6 @@
+Field: PXIO1ICD
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 767-768
+Content:
+

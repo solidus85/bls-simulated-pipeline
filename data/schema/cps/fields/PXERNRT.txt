@@ -1,0 +1,6 @@
+Field: PXERNRT
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 793-794
+Content:
+

@@ -1,0 +1,6 @@
+Field: PXLAYDUR
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 725-726
+Content:
+

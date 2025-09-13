@@ -1,0 +1,15 @@
+Field: PEERNHRO
+Size: 2
+Description: USUAL HOURS
+Columns: 525-526
+Content:
+
+EDITED UNIVERSE:	PEERNH1O = ENTRY
+
+VALID ENTRIES
+
+0	MIN VALUE
+99	MAX VALUE
+
+
+

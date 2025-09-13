@@ -1,0 +1,14 @@
+Field: PESEX
+Size: 2
+Description: SEX
+Columns: 129-130
+Content:
+
+EDITED UNIVERSE:	PRPERTYP = 1, 2, 0R 3
+
+VALID ENTRIES
+
+1	MALE
+2	FEMALE
+
+

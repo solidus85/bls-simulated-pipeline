@@ -1,0 +1,11 @@
+Field: PULAYDT
+Size: 2
+Description: HAS YOUR EMPLOYER GIVEN YOU A DATE TO RETURN TO WORK?
+Columns: 273-274
+Content:
+
+VALID ENTRIES
+
+1      YES
+2      NO
+

@@ -1,0 +1,6 @@
+Field: PXHGCOMP
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 836-837
+Content:
+

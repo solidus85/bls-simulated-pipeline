@@ -1,0 +1,15 @@
+Field: PTTLWK
+Size: 2
+Description: TELEWORK AT HOME
+Columns: 252-253
+Content:
+
+EDITED UNIVERSE:	PRTAGE = 16+ AND PEMLR=1
+
+VALID ENTRIES
+
+1  YES
+2  NO
+
+***STARTING JUNE 2024***
+

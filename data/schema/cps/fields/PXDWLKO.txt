@@ -1,0 +1,6 @@
+Field: PXDWLKO
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 747-748
+Content:
+

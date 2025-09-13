@@ -1,0 +1,6 @@
+Field: PXRET1
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 687-688
+Content:
+

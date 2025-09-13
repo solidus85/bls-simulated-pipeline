@@ -1,0 +1,11 @@
+Field: HUBUS
+Size: 2
+Description: DOES ANYONE IN THIS HOUSEHOLD HAVE A BUSINESS OR A FARM?
+Columns: 79-80
+Content:
+
+VALID ENTRIES
+
+1	YES
+2	NO
+

@@ -1,0 +1,11 @@
+Field: HUBUSL2
+Size: 2
+Description: See BUSL1
+Columns: 83-84
+Content:
+
+VALID ENTRIES
+
+1	MIN VALUE
+99	MAX VALUE
+

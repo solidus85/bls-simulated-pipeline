@@ -1,0 +1,6 @@
+Field: PXLKM1
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 729-730
+Content:
+

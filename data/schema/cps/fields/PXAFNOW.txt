@@ -1,0 +1,6 @@
+Field: PXAFNOW
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 669-670
+Content:
+

@@ -1,0 +1,6 @@
+Field: PXHRWANT
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 705-706
+Content:
+

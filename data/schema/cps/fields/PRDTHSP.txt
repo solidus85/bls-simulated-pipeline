@@ -1,0 +1,19 @@
+Field: PRDTHSP
+Size: 2
+Description: DETAILED HISPANIC ORIGIN GROUP Revised January 2014
+Columns: 141-142
+Content:
+
+EDITED UNIVERSE:	PEHSPNON = 1
+
+VALID ENTRIES
+
+1.  Mexican
+2.  Puerto Rican
+3.  Cuban
+4.  Dominican
+5.  Salvadoran
+6.  Central American, excluding Salvadoran
+7.  South American
+8.  Other Spanish
+

@@ -1,0 +1,12 @@
+Field: PULAYAVR
+Size: 2
+Description: WHY IS THAT?
+Columns: 279-280
+Content:
+
+VALID ENTRIES
+
+1      OWN TEMPORARY ILLNESS
+2      GOING TO SCHOOL
+3      OTHER
+

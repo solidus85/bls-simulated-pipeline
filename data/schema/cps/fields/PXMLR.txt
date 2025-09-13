@@ -1,0 +1,6 @@
+Field: PXMLR
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 685-686
+Content:
+

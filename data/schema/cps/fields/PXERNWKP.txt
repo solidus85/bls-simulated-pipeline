@@ -1,0 +1,6 @@
+Field: PXERNWKP
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 791-792
+Content:
+

@@ -1,0 +1,22 @@
+Field: PRMJOCC2
+Size: 2
+Description: MAJOR OCCUPATION RECODE - JOB 2
+Columns: 488-489
+Content:
+
+EDITED UNIVERSE:	PRDTOCC2 = 1-23
+
+VALID ENTRIES
+
+1	Management, business, and financial occupations
+2	Professional and related occupations
+3	Service occupations
+4	Sales and related occupations
+5	Office and administrative support occupations
+6	Farming, fishing, and forestry occupations
+7	Construction and extraction occupations
+8	Installation, maintenance, and repair occupations
+9	Production occupations
+10	Transportation and material moving occupations
+11	Armed Forces
+

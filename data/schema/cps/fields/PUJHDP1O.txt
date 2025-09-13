@@ -1,0 +1,11 @@
+Field: PUJHDP1O
+Size: 2
+Description: DID YOU DO ANY OF THIS WORK IN THE LAST 4 WEEKS?
+Columns: 375-376
+Content:
+
+VALID ENTRIES
+
+1	YES
+2	NO
+

@@ -1,0 +1,6 @@
+Field: OCCURNUM
+Size: 2
+Description: Unique person identifier. Valid only within any specific month.
+Columns: 820-821
+Content:
+

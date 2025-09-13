@@ -1,0 +1,6 @@
+Field: PXMJOT
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 693-694
+Content:
+

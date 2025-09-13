@@ -1,0 +1,6 @@
+Field: PXNMEMP1
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 681-682
+Content:
+

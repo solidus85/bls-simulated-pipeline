@@ -1,0 +1,6 @@
+Field: PXDIPGED
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 834-835
+Content:
+

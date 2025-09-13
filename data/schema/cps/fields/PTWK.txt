@@ -1,0 +1,9 @@
+Field: PTWK
+Size: 1
+Description: WEEKLY EARNINGS - TOP CODE
+Columns: 535-535
+Content:
+
+0	NOT TOPCODED
+1	TOPCODED
+*STARTING MAY 2024*

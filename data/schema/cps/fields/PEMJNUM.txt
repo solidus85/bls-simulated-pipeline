@@ -1,0 +1,14 @@
+Field: PEMJNUM
+Size: 2
+Description: ALTOGETHER, HOW MANY JOBS DID YOU HAVE?
+Columns: 216-217
+Content:
+
+EDITED UNIVERSE:	PEMJOT = 1
+
+VALID ENTRIES
+
+2       2 JOBS
+3       3 JOBS
+4       4 OR MORE JOBS
+

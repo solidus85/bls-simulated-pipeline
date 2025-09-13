@@ -1,0 +1,16 @@
+Field: PECYC
+Size: 2
+Description: How many years of college credit has...completed?
+Columns: 826-827
+Content:
+
+EDITED UNIVERSE:  PEEDUCA =40-42
+
+VALID ENTRIES
+
+1	Less than 1 year (includes 0 years completed)
+2	The first or Freshman year
+3	The second or Sophomore year
+4	The third or Junior year
+5	Four or more years
+

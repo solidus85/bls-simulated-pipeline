@@ -1,0 +1,6 @@
+Field: PXSCHLVL
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 813-814
+Content:
+

@@ -1,0 +1,6 @@
+Field: PXSCHFT
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 811-812
+Content:
+

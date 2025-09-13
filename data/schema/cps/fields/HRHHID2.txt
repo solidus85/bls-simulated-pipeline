@@ -1,0 +1,16 @@
+Field: HRHHID2
+Size: 5
+Description: HOUSEHOLD IDENTIFIER (part 2)
+Columns: 71-75
+Content:
+
+EDITED UNIVERSE:	ALL HHLD's IN SAMPLE
+
+Part 1 of this number is found in columns 1-15 of the record.
+Concatenate this item with Part 1 for matching.
+
+The component parts of this number are as follows:
+71-72	Numeric component of the sample number (HRSAMPLE)
+73-74	Serial suffix-converted to numerics (HRSERSUF)
+75		Household Number (HUHHNUM)
+

@@ -1,0 +1,6 @@
+Field: PXCOHAB
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 904-905
+Content:
+

@@ -1,0 +1,12 @@
+Field: PTERNH1O
+Size: 4
+Description: OUT VARIABLE FOR HOURLY RATE OF PAY (2 IMPLIED DECIMALS) EDITED UNIVERSE: PEERNPER = 1
+Columns: 516-519
+Content:
+
+VALID ENTRIES
+
+0	MIN VALUE
+9999	MAX VALUE (Subject to topcoding based on the entry in PEERNHRO
+such that PEERNHRO x PEERNHLY < or = 2884.61)
+

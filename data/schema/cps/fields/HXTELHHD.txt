@@ -1,0 +1,6 @@
+Field: HXTELHHD
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 647-648
+Content:
+

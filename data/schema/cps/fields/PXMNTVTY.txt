@@ -1,0 +1,6 @@
+Field: PXMNTVTY
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 677-678
+Content:
+

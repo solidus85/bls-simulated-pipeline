@@ -1,0 +1,6 @@
+Field: PXAFWHN1
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 667-668
+Content:
+

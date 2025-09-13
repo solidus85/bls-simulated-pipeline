@@ -1,0 +1,10 @@
+Field: HRHHID
+Size: 15
+Description: HOUSEHOLD IDENTIFIER (Part 1)
+Columns: 1-15
+Content:
+
+EDITED UNIVERSE:	ALL HHLD's IN SAMPLE
+
+Part 1. See Characters 71-75 for Part 2 of the Household Identifier.
+

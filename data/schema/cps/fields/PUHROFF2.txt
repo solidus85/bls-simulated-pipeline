@@ -1,0 +1,11 @@
+Field: PUHROFF2
+Size: 2
+Description: HOW MANY HOURS DID YOU TAKE OFF?
+Columns: 237-238
+Content:
+
+VALID ENTRIES
+
+0      MIN VALUE
+99    MAX VALUE
+

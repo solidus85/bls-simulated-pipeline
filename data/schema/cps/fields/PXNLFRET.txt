@@ -1,0 +1,6 @@
+Field: PXNLFRET
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 805-806
+Content:
+

@@ -1,0 +1,6 @@
+Field: PXERNHRO
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 783-784
+Content:
+

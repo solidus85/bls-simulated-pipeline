@@ -1,0 +1,11 @@
+Field: PRTFAGE
+Size: 1
+Description: TOP CODE FLAG FOR AGE
+Columns: 124-124
+Content:
+
+VALID ENTRIES
+
+0	NO TOP CODE
+1	TOP CODED VALUE FOR AGE
+

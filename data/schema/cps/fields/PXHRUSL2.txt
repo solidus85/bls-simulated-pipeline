@@ -1,0 +1,6 @@
+Field: PXHRUSL2
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 699-700
+Content:
+

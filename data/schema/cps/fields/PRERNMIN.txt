@@ -1,0 +1,9 @@
+Field: PRERNMIN
+Size: 2
+Description: FEDERALLY MANDATED MINIMUM WAGE RATE FLAG
+Columns: 536-537
+Content:
+
+-1	NIU or greater than $7.25
+1	$7.25 or less
+

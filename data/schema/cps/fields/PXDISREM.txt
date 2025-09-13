@@ -1,0 +1,6 @@
+Field: PXDISREM
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 924-925
+Content:
+

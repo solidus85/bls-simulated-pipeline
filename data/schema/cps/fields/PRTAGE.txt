@@ -1,0 +1,21 @@
+Field: PRTAGE
+Size: 2
+Description: PERSONS AGE
+Columns: 122-123
+Content:
+
+Note:  This variable was labeled as PEAGE in prior versions of this documentation
+even though it contained the public use version of age that was topcoded and underwent
+further masking steps to protect the confidentiality of individuals in sample.
+
+EDITED UNIVERSE:	PRPERTYP = 1, 2, 0R 3
+
+
+
+
+VALID ENTRIES
+
+00-79		Age in Years
+80		80-84 Years Old
+85		85+ Years Old
+

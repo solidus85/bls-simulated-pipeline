@@ -1,0 +1,6 @@
+Field: PXERNHRY
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 795-796
+Content:
+

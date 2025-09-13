@@ -1,0 +1,6 @@
+Field: PXDISDRS
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 928-929
+Content:
+

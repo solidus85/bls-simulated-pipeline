@@ -1,0 +1,6 @@
+Field: PXIO1OCD
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 769-770
+Content:
+

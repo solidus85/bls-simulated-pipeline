@@ -1,0 +1,11 @@
+Field: HUBUSL1
+Size: 2
+Description: ENTER LINE NUMBER FOR HUBUS = 1
+Columns: 81-82
+Content:
+
+VALID ENTRIES
+
+01	MIN VALUE
+99	MAX VALUE
+

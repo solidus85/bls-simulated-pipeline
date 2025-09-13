@@ -1,0 +1,15 @@
+Field: PELKDUR
+Size: 3
+Description: DURATION OF JOB SEEKING
+Columns: 342-344
+Content:
+
+EDITED UNIVERSE:	PELKLWO = 1 - 3
+
+VALID ENTRIES
+
+0-118	Weeks looking for work
+119	119 or more weeks looking
+
+Topcoded at 119 weeks starting April 2011
+

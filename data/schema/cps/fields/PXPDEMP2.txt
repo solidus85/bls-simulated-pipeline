@@ -1,0 +1,6 @@
+Field: PXPDEMP2
+Size: 2
+Description: ALLOCATION FLAG
+Columns: 787-788
+Content:
+
