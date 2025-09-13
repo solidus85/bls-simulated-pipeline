@@ -29,3 +29,11 @@ obj/
 *.bak
 *.log
 
+# Local files 
+.local
+
+# Python 
+*.pyc 
+.venv_win
+.venv
+__pycache__
