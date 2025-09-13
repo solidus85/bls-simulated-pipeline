@@ -1,0 +1,11 @@
+field,size,desc,columns
+RPTMTH,6,Report month (YYYYMM),1-6
+MSA,5,Metropolitan Statistical Area code (00000 if not applicable),7-11
+STFIPS,2,State FIPS code,12-13
+NAICS,6,NAICS industry code,14-19   
+EIND,9,Employer Identification Number,20-28
+ALLEMP,6,All employees (headcount),29–34
+PRODEMP,6,Production & nonsupervisory employees (headcount),35–40
+WOMEN,6,Women employees (headcount),41–46
+PAYROLL,12,"Total payroll (dollars, right-justified)",47–58
+HOURS,10,"Total hours paid (2 implied decimal places, right-justified)",59–68
